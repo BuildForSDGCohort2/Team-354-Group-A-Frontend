@@ -1,0 +1,10 @@
+.card-inline{
+    display: inline;
+}
+
+body,html{
+
+    background: green;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
